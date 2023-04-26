@@ -26,5 +26,4 @@ hs.hotkey.bind({"ctrl", "shift"}, "z", function()
     hs.application.launchOrFocus("neovide")
     app = hs.application.get("neovide")
   end
-  -- hs.spaces.gotoSpace(currentSpace)
 end)
